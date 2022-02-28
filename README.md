@@ -1,7 +1,7 @@
 
 ## Introduction
 👉 CSE Junior at The Ohio State University! <br />
-👉 Interested in ***Software Development, Web & App development, UI/UX design*** <br />
+👉 Interested in ***Software Development, Web & App development, UI/UX design, AI & Machine learning*** <br />
 👉 Currently swimming in the sea of ***Android App*** development and hopefully ***cross-platform*** app development in the future!  <br />
 
 ## Links
