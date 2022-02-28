@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="https://leetcode.com/Just_ZJ/">LeetCode</a> |
-  <a href="https://www.hackerrank.com/tan_955">HackerRank</a>
+  <a href="https://www.hackerrank.com/tan_955">HackerRank</a> | 
+  <a href="https://devpost.com/Just-ZJ">DevPost (Hackathon)</a>
 </p>
 
 
